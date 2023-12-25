@@ -1,4 +1,4 @@
-## Harssha wardan , Benny chainik , Sriharsha , Sree nithya
+## Harssha wardan , Sree nithya
 ## Project - Sudoku generator and solver
 
 # Sudoku
