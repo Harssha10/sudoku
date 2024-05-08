@@ -1,4 +1,4 @@
-## Harssha wardan , Sree nithya
+## Harssha wardan
 ## Project - Sudoku generator and solver
 
 # Sudoku
