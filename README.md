@@ -1,4 +1,4 @@
-## Harssha wardan
+
 ## Project - Sudoku generator and solver
 
 # Sudoku
